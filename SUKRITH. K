@@ -1,3 +1,5 @@
+!Doc html>
+<tittle>website</tittle>
 <center><H1> WELCOME TO MY WEB<H2><br>
 <H2>       enter name <input type ="text"></H2>
 <H2> enter password <input type ="password"><br><hr>
@@ -6,3 +8,4 @@
 <body bgcolor="pink">
 <input type="text">
 </center>
+</html>
