@@ -9,11 +9,13 @@
   text-align: center;
 }
 </style>
+<body>
 <H1> WELCOME TO MY WEB<H2><br>
 <H2>       enter name <input type ="text"></H2>
 <H2> enter password <input type ="password"><input type="image"><br><hr>
 </centre>
 <ul></ul>
+</body>
 </html>
 
 
