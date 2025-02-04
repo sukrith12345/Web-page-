@@ -3,12 +3,14 @@
 <tittle>create by icon master</title>
 <center>
 <style>
+
 .myDiv {
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
 }
 </style>
+
 <body>
 <H1> WELCOME TO MY WEB<H2><br>
 <H2>       enter name <input type ="text"></H2>
