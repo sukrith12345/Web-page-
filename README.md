@@ -1,1 +1,6 @@
-# Web-page-
+<header>
+  <nav>
+  <sections>         
+                   <a side>
+  <article>
+  <footboard>
