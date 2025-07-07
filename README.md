@@ -1,18 +1,20 @@
-<header>
-  <nav>
-  <sections>         
-                   <abside>
-  <article>
-  <footboard>
-    ---------------------
-This use for html format to complete
-<header>
-     <h1> hello </h1>
-     <p> this format using developer </p>
-</header>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HILLS OF BADAGA</title>
+</head>
 
 
-<nav>
-  <a href="#"> Home</a>
-  <a href="#"> contact</a>
-</nav>
+<body>
+<center><h1> Hills of badaga</h1>
+<p>This for badaga God songs video uploading in YouTube </p>
+<b>coming soon</b>
+<hr />
+</center>
+  
+</body>
+
+</html>
