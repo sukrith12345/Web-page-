@@ -3,14 +3,18 @@
 <head>
 <tittle>website</tittle>
 </head>
+
 <body>
+
 <center><H1> WELCOME TO MY WEB<H2><br>
 <H2>       enter name <input type ="text"></H2>
 <H2> enter password <input type ="password"><br><hr>
 <Input type="radio">BY ICON MASTER SUKRITH <br>
 <input type ="submit">
 <body bgcolor="pink">
-<input type="text">
+<input type="text"
 </center>
+
 </body>
+
 </html>
