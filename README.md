@@ -52,15 +52,8 @@
   <center>
     <h2>Hills_of_badaga</h2>
     <p>This is the hills of badaga section of the website.</p>
-    
-  
-
-  
     <h2>murugan</h2>
     <p>This is the murugan section of the website.</p>
-  
-
-  
     <h2>maari hathai</h2>
     <p>This is the contact section of the website.</p>
   </center>
